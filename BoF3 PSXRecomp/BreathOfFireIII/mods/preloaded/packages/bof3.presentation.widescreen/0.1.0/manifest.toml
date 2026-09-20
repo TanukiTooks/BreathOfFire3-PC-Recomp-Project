@@ -1,0 +1,22 @@
+format_version = 5
+id = "bof3.presentation.widescreen"
+version = "0.1.0"
+name = "BoF3 Experimental Widescreen"
+author = "BoF3 port project"
+description = "Optional native-wide 16:9 presentation with extended tiled menu backgrounds. Scene edge rendering remains experimental."
+resolver = "declarative"
+save_compatibility = "shared"
+
+[[target]]
+game_id = "SLUS-00422"
+
+[[feature]]
+id = "widescreen"
+name = "16:9 Widescreen (experimental)"
+description = "Wider scene rendering. May reveal missing scenery and edge artifacts. Restart to apply."
+group = "Visual"
+default_enabled = false
+
+[[plugin]]
+feature = "widescreen"
+id = "bof3.presentation.widescreen"

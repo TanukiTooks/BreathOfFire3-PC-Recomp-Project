@@ -1,0 +1,82 @@
+# Local-only and third-party game data
+BIOS/
+iso/
+Ghidra/
+Koudelka*/
+BoF3 Legacy/
+BoF3 Recomp1/
+Future Assets To Use/
+*.bin
+*.cue
+*.iso
+*.img
+*.chd
+*.pbp
+*.ecm
+*.m3u
+*.sav
+*.mcd
+*.torrent
+BoF3 Research/*.json
+BoF3 Research/*.tsv
+BoF3 Research/*.txt
+
+# Build outputs, generated translated code, and runtime state
+**/build*/
+**/generated/
+**/generated*/
+**/.vs/
+**/.vscode/
+**/CMakeFiles/
+**/CMakeCache.txt
+**/cmake_install.cmake
+**/*.exe
+**/*.dll
+**/*.lib
+**/*.obj
+**/*.pdb
+**/*.ilk
+**/*.exp
+**/*.log
+**/run-*/
+**/logs/
+**/input/
+**/__pycache__/
+**/*.pyc
+**/*.ram
+**/*.vram
+**/*.before
+**/finish
+
+# Images, videos, audio, screenshots, and derived captures stay local by default.
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+*.webp
+*.mp4
+*.avi
+*.wav
+
+# Large runtime captures and derived dumps
+**/psx_freeze_dump_*.json
+**/*freeze_dump*.json
+**/coverage/**
+
+# Vendored local tools/binaries and framework snapshots
+BoF3 Research/tools/video-reader/
+BoF3 PSXRecomp/psxrecomp-src-nightly*/
+
+# Derived/copyright-risk visual assets from the original game
+BoF3 PSXRecomp/BreathOfFireIII/assets/title/
+Future Assets To Use/
+
+# Keep project source, docs, scripts, configs, and compact research notes.
+!.gitignore
+!README.md
+!LICENSE
+!Breath of Fire III - Display Settings.cmd
+!BoF3 PSXRecomp/
+!BoF3 PSXRecomp/BreathOfFireIII/
+!BoF3 Research/

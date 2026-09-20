@@ -1,0 +1,715 @@
+{
+  "format_version": 1,
+  "family": "xbox",
+  "source_url": "https://www.figma.com/community/file/1271153059120916114/xbox-controller-icons-free",
+  "source_kind": "user-supplied transparent PNG exports",
+  "default_face_style": "color",
+  "sheets": [
+    {
+      "file": "Frame 13.png",
+      "size": [
+        464,
+        24
+      ],
+      "sha256": "175d9b81d3b544783c5bbc69b1e312afd6639e7865ea85ddfa51a4eb3c5ace2b",
+      "icon_count": 12
+    },
+    {
+      "file": "Frame 14.png",
+      "size": [
+        156,
+        24
+      ],
+      "sha256": "7ac552952352e6ddb862c8abd8dc662a9160f0856388c007aa17494bda6c9e84",
+      "icon_count": 4
+    },
+    {
+      "file": "Frame 15.png",
+      "size": [
+        184,
+        24
+      ],
+      "sha256": "d68e0234401f319b436772763319b2c7efea8a7364cf941bae0e1d50c5556bea",
+      "icon_count": 5
+    },
+    {
+      "file": "Frame 16.png",
+      "size": [
+        467,
+        26
+      ],
+      "sha256": "ee29434d10dddb1380d51d4c89b8d893ed0a38ccaedc1a65e58704ec7ba35591",
+      "icon_count": 12
+    },
+    {
+      "file": "Frame 17.png",
+      "size": [
+        150,
+        26
+      ],
+      "sha256": "dc242558a893435dcce869d0a8aad0b34c6c25b7fcc9585a174342d6123b14da",
+      "icon_count": 4
+    },
+    {
+      "file": "Frame 18.png",
+      "size": [
+        64,
+        24
+      ],
+      "sha256": "943201718d7a994ee1db93f225446ceafef6d5d9d081749e3f3a3098ade06418",
+      "icon_count": 2
+    }
+  ],
+  "icons": {
+    "a-color": {
+      "file": "icons/a-color.png",
+      "source_sheet": "Frame 13.png",
+      "source_rect": [
+        3,
+        3,
+        18,
+        18
+      ],
+      "size": [
+        18,
+        18
+      ],
+      "sha256": "aa02b06e7e9b69d84da882f7083f178f0c69ebb60017ab8b0ae4e16cc6ee6085",
+      "rgba_sha256": "e4fb3bf0f81e459ce60e97065e79154dc5671251680934e7a9da225c8273161d"
+    },
+    "b-color": {
+      "file": "icons/b-color.png",
+      "source_sheet": "Frame 13.png",
+      "source_rect": [
+        43,
+        3,
+        18,
+        18
+      ],
+      "size": [
+        18,
+        18
+      ],
+      "sha256": "3a8cc3b0c1a449d0d92082bc61e97925d23efced5731911a0625e6570bb02f4f",
+      "rgba_sha256": "87daabd1c23c356b4e3348e71d5ab86ca4f1f8a7faac6b7056beb0989ddfafe8"
+    },
+    "x-color": {
+      "file": "icons/x-color.png",
+      "source_sheet": "Frame 13.png",
+      "source_rect": [
+        83,
+        3,
+        18,
+        18
+      ],
+      "size": [
+        18,
+        18
+      ],
+      "sha256": "a7178e3f0c48c51cdfe7c4cd652551fda59935b64bad0e9d9e308b39f6ad0bcb",
+      "rgba_sha256": "37f7545abaffe06fe67ba70def99be10b558dbcbb44d033fc18a3a7a5cac0bb4"
+    },
+    "y-color": {
+      "file": "icons/y-color.png",
+      "source_sheet": "Frame 13.png",
+      "source_rect": [
+        123,
+        3,
+        18,
+        18
+      ],
+      "size": [
+        18,
+        18
+      ],
+      "sha256": "9d9cbd2147de36947ac22c0866614c503f115ef05d0919c94f4d052aa2f3720b",
+      "rgba_sha256": "a678c7326b4531288a7c23534b4f62b7807a5683f1cb6d326dce6203ddf65025"
+    },
+    "a-solid": {
+      "file": "icons/a-solid.png",
+      "source_sheet": "Frame 13.png",
+      "source_rect": [
+        163,
+        3,
+        18,
+        18
+      ],
+      "size": [
+        18,
+        18
+      ],
+      "sha256": "bbe1129d17caf79eeb9401d2530aca7fe5d6827f4c422a9c7506143edf1cc94e",
+      "rgba_sha256": "bd9e56490ca630e0504b4dd178172ca0219f4e1524fec8ac71583c2d32f886b5"
+    },
+    "b-solid": {
+      "file": "icons/b-solid.png",
+      "source_sheet": "Frame 13.png",
+      "source_rect": [
+        203,
+        3,
+        18,
+        18
+      ],
+      "size": [
+        18,
+        18
+      ],
+      "sha256": "d8d99158b872f7b15991dd1b387c4ac92b44d7839a187c91bc778bb06ebd95a6",
+      "rgba_sha256": "d9f9ef1211c2f4c19fc0d9d7f287ca2ca01229a15e157440b9e8e39e6185efe4"
+    },
+    "x-solid": {
+      "file": "icons/x-solid.png",
+      "source_sheet": "Frame 13.png",
+      "source_rect": [
+        243,
+        3,
+        18,
+        18
+      ],
+      "size": [
+        18,
+        18
+      ],
+      "sha256": "892e0606199ebdb145ecc637c35c830171a1577c473f2fbf8a942515be3d91bf",
+      "rgba_sha256": "5e2bfc5f4ba8ff556ffdc57edc9947e705d365fb643d23c08010ab9763b552ce"
+    },
+    "y-solid": {
+      "file": "icons/y-solid.png",
+      "source_sheet": "Frame 13.png",
+      "source_rect": [
+        283,
+        3,
+        18,
+        18
+      ],
+      "size": [
+        18,
+        18
+      ],
+      "sha256": "2e83798fc33e0d1e6e44d6dbb27073ea501a523298e810dda37574497be337d4",
+      "rgba_sha256": "117ca214cc2c3a0e16d66724f3e847e56d88e43397af61d8b818957c6bfdf9a8"
+    },
+    "a-outline": {
+      "file": "icons/a-outline.png",
+      "source_sheet": "Frame 13.png",
+      "source_rect": [
+        323,
+        3,
+        18,
+        18
+      ],
+      "size": [
+        18,
+        18
+      ],
+      "sha256": "a8c4b515e507b6c7fb70f28a8822967e8104537d53b0332848f02a10ba854dfa",
+      "rgba_sha256": "ebee0f3ff5f645e861744873cfdc5d3131c6d0036f9cbcafff61b4c8db18959a"
+    },
+    "b-outline": {
+      "file": "icons/b-outline.png",
+      "source_sheet": "Frame 13.png",
+      "source_rect": [
+        363,
+        3,
+        18,
+        18
+      ],
+      "size": [
+        18,
+        18
+      ],
+      "sha256": "db5e3dcee82e3428065b87f53866f7c473934031c7e8f3c23daf9a9a4cda1be0",
+      "rgba_sha256": "a903ce27c1f0d7cb427785a408159a7aa8939283fa31a4bc6094370c44681416"
+    },
+    "x-outline": {
+      "file": "icons/x-outline.png",
+      "source_sheet": "Frame 13.png",
+      "source_rect": [
+        403,
+        3,
+        18,
+        18
+      ],
+      "size": [
+        18,
+        18
+      ],
+      "sha256": "c06f1199a5b6fe9eec9fcbd16c8299bb968873983ac2fedd7548de3fb560d558",
+      "rgba_sha256": "8822e57f1448a580ce0f897cd3d486f091881e3a77395c3afe4c9a75304053b1"
+    },
+    "y-outline": {
+      "file": "icons/y-outline.png",
+      "source_sheet": "Frame 13.png",
+      "source_rect": [
+        443,
+        3,
+        18,
+        18
+      ],
+      "size": [
+        18,
+        18
+      ],
+      "sha256": "c1bbfaef9d8daeb2b47d707f18e20cbaffcb4211dd1542c5e1ee98d062799e8d",
+      "rgba_sha256": "03f27905d754ca4e732c28bf4e912d85cc79c64085ade9ed1dff86d0ca8acb68"
+    },
+    "lb": {
+      "file": "icons/lb.png",
+      "source_sheet": "Frame 14.png",
+      "source_rect": [
+        0,
+        3,
+        29,
+        18
+      ],
+      "size": [
+        29,
+        18
+      ],
+      "sha256": "a75cc16b7df082b632dcd00b1ae6752733c7a9a0beb2388b963f2633c29a2ef1",
+      "rgba_sha256": "b18fb1b7a8a9ccb96246c58b80551b79b900865a666b8bfeb503ad2b5a3ed1e2"
+    },
+    "rb": {
+      "file": "icons/rb.png",
+      "source_sheet": "Frame 14.png",
+      "source_rect": [
+        45,
+        3,
+        30,
+        18
+      ],
+      "size": [
+        30,
+        18
+      ],
+      "sha256": "d4fc68de47681af32498148120acfda2ba965ad9966a8672afb4eb5d79077651",
+      "rgba_sha256": "10ffddec1ba3341a4702762844233625559858dff049b214eb2ec43a77dc4cc9"
+    },
+    "lt": {
+      "file": "icons/lt.png",
+      "source_sheet": "Frame 14.png",
+      "source_rect": [
+        91,
+        0,
+        25,
+        24
+      ],
+      "size": [
+        25,
+        24
+      ],
+      "sha256": "4424a9bdd5f3ec2abaebe1c1d4359a338a505e5745c360abdec14be889e7db70",
+      "rgba_sha256": "b2028ef56bfc8827206a8bd983b4acd2ffe2717a3350b861809bc1cb4f1a367c"
+    },
+    "rt": {
+      "file": "icons/rt.png",
+      "source_sheet": "Frame 14.png",
+      "source_rect": [
+        131,
+        0,
+        24,
+        24
+      ],
+      "size": [
+        24,
+        24
+      ],
+      "sha256": "4023d74b29a10540449116a3707ad761b7bb9b7e19292cefe93dc2e6ee46864c",
+      "rgba_sha256": "b09279cb91cc6354f7ac92d9ac437e094ae4b8104d6d541f46c48d65da45a939"
+    },
+    "dpad": {
+      "file": "icons/dpad.png",
+      "source_sheet": "Frame 15.png",
+      "source_rect": [
+        3,
+        3,
+        18,
+        18
+      ],
+      "size": [
+        18,
+        18
+      ],
+      "sha256": "62827ee940b0a69f399f9b5141e273d38a5547efc61e93cc6e77be0855b30ec8",
+      "rgba_sha256": "15a63330b034492eb01da49433eba4c15b4cab9f3f50e65a3c922ee27708b386"
+    },
+    "dpad-left": {
+      "file": "icons/dpad-left.png",
+      "source_sheet": "Frame 15.png",
+      "source_rect": [
+        43,
+        3,
+        18,
+        18
+      ],
+      "size": [
+        18,
+        18
+      ],
+      "sha256": "acc498e777316d73af9d722679e8597d3f624cf1656c2f1704d931f0b23e6bf1",
+      "rgba_sha256": "a6741254d777fbdbffda81c05710ba8e9d161813c64ae8fa43173d79c0a2084b"
+    },
+    "dpad-up": {
+      "file": "icons/dpad-up.png",
+      "source_sheet": "Frame 15.png",
+      "source_rect": [
+        83,
+        3,
+        18,
+        18
+      ],
+      "size": [
+        18,
+        18
+      ],
+      "sha256": "1cec759c706b9acef0dd0eabec6cb41438979b13fc97890063c6513ccda3b1e6",
+      "rgba_sha256": "beade9a70a4679b6609a0eeb1790d3c9e8b98184ae89454ccfd64c725b765f56"
+    },
+    "dpad-right": {
+      "file": "icons/dpad-right.png",
+      "source_sheet": "Frame 15.png",
+      "source_rect": [
+        123,
+        3,
+        18,
+        18
+      ],
+      "size": [
+        18,
+        18
+      ],
+      "sha256": "eebd88469b9cc335ee46d79206ac865cfd3fda5130dae6a74fad22d389c58576",
+      "rgba_sha256": "dc72b994533598eedd42b5c8c7d752e04d1b5de2006ec7cc6c3fae79667390f6"
+    },
+    "dpad-down": {
+      "file": "icons/dpad-down.png",
+      "source_sheet": "Frame 15.png",
+      "source_rect": [
+        163,
+        3,
+        18,
+        18
+      ],
+      "size": [
+        18,
+        18
+      ],
+      "sha256": "dfa0fd7303fc875777a3387bd00bec784c7ffeedd3d3db3127d1dc03a58b0923",
+      "rgba_sha256": "80fca7cdf200995bdfff85a5cb083a5b4a4c10df4e1522ebf5cfb1403c7bc3fb"
+    },
+    "right-stick-all": {
+      "file": "icons/right-stick-all.png",
+      "source_sheet": "Frame 16.png",
+      "source_rect": [
+        0,
+        0,
+        26,
+        26
+      ],
+      "size": [
+        26,
+        26
+      ],
+      "sha256": "be51435ccf35705199ec510151b510fa6448a1e192a9581f7e295a34a45f082e",
+      "rgba_sha256": "7545076b80f7d931cbf3aa3692fa2f3c6cd89dfbfd4f6c94665ea9907f38e850"
+    },
+    "left-stick-all": {
+      "file": "icons/left-stick-all.png",
+      "source_sheet": "Frame 16.png",
+      "source_rect": [
+        41,
+        0,
+        26,
+        26
+      ],
+      "size": [
+        26,
+        26
+      ],
+      "sha256": "f55b242aea4aef534dd4604c9088698a3b3f6b2d7b2626e565578453303ec25b",
+      "rgba_sha256": "6b1c4c5cf75e6418b7ebba9f379a46c7cdb804d2f53264b259ad99a301cea800"
+    },
+    "left-stick-round": {
+      "file": "icons/left-stick-round.png",
+      "source_sheet": "Frame 16.png",
+      "source_rect": [
+        86,
+        3,
+        18,
+        19
+      ],
+      "size": [
+        18,
+        19
+      ],
+      "sha256": "16a2238172239c510548c6267f87982560135d3bd9de2f54a5c898f249982d0b",
+      "rgba_sha256": "78a6ba7cbc78782d9078814ab823e024eb5df506f202943d810e423996e7c10f"
+    },
+    "right-stick-round": {
+      "file": "icons/right-stick-round.png",
+      "source_sheet": "Frame 16.png",
+      "source_rect": [
+        126,
+        3,
+        18,
+        19
+      ],
+      "size": [
+        18,
+        19
+      ],
+      "sha256": "a33e1170101a6455d8ac13aec41b8d470841f2004e4d939ce315547e4f7eeb3f",
+      "rgba_sha256": "f64db60abb44a5a31da166be0cc7845975f1d293a479994c3106c0e42eaa222e"
+    },
+    "left-stick-up": {
+      "file": "icons/left-stick-up.png",
+      "source_sheet": "Frame 16.png",
+      "source_rect": [
+        166,
+        2,
+        18,
+        22
+      ],
+      "size": [
+        18,
+        22
+      ],
+      "sha256": "11f64047ef71a342b177515164d216f3ee5e51b691eb0a3683afe311dab6d0ca",
+      "rgba_sha256": "2e28a22fefd6d0506abbc25e5721867d88870db6e99cf6487b3aaa0a8bd279d8"
+    },
+    "right-stick-up": {
+      "file": "icons/right-stick-up.png",
+      "source_sheet": "Frame 16.png",
+      "source_rect": [
+        206,
+        2,
+        18,
+        22
+      ],
+      "size": [
+        18,
+        22
+      ],
+      "sha256": "f1b16964ae482523a52d9efba71d5f6c1dd947003dd9863a8ee68e2db1668067",
+      "rgba_sha256": "cd55f7cea43106ff394e282d42789d8f2574ebafa2c51c69cb9f0a5245e84f60"
+    },
+    "left-stick-down": {
+      "file": "icons/left-stick-down.png",
+      "source_sheet": "Frame 16.png",
+      "source_rect": [
+        246,
+        2,
+        18,
+        22
+      ],
+      "size": [
+        18,
+        22
+      ],
+      "sha256": "5149e8dc1af3443ed22f8dd55daba5c64c9f9e541b99aebd2571054a4bb1e339",
+      "rgba_sha256": "58c9c34157a307540403e58649b7338919ca77607032abf6fd58903b6693d308"
+    },
+    "right-stick-down": {
+      "file": "icons/right-stick-down.png",
+      "source_sheet": "Frame 16.png",
+      "source_rect": [
+        286,
+        2,
+        18,
+        22
+      ],
+      "size": [
+        18,
+        22
+      ],
+      "sha256": "11739f281c7ea4a6ad5ec29b7be2ea4e5a6d294cf8d614850b4085242e0edc3c",
+      "rgba_sha256": "2946273213bec34d846c6ad7cdddb2e8c4cd1c7126c04e655522ed8953e91c40"
+    },
+    "left-stick-right": {
+      "file": "icons/left-stick-right.png",
+      "source_sheet": "Frame 16.png",
+      "source_rect": [
+        323,
+        3,
+        23,
+        19
+      ],
+      "size": [
+        23,
+        19
+      ],
+      "sha256": "467c130c7e0e4a4b8cf92961d840ca25a7aaac478134dc1197d3662779ffb971",
+      "rgba_sha256": "6fd9462baa9bdbbc9b3b57da43c79d2b2563a3f19da0eb9d88c947308fc8a922"
+    },
+    "right-stick-right": {
+      "file": "icons/right-stick-right.png",
+      "source_sheet": "Frame 16.png",
+      "source_rect": [
+        363,
+        3,
+        23,
+        19
+      ],
+      "size": [
+        23,
+        19
+      ],
+      "sha256": "5056ade603e4e17bcef2eae62321cee8c1d54a8cb693e29df5ce7d8702a67c6c",
+      "rgba_sha256": "5154d30e1ab34e0d61dcba52d1f1988bc87ede1291bdded38023f1cd4885bc1d"
+    },
+    "left-stick-left": {
+      "file": "icons/left-stick-left.png",
+      "source_sheet": "Frame 16.png",
+      "source_rect": [
+        404,
+        3,
+        22,
+        19
+      ],
+      "size": [
+        22,
+        19
+      ],
+      "sha256": "61b4bfb4ce603c319bd518fc889c773ab2ce4f8ef3f1a58b6d67f25c726fc6cd",
+      "rgba_sha256": "f46ee5426901079b09590e6cfd30c252d8a50a589eee85a9d2a033b8109ca469"
+    },
+    "right-stick-left": {
+      "file": "icons/right-stick-left.png",
+      "source_sheet": "Frame 16.png",
+      "source_rect": [
+        444,
+        3,
+        22,
+        19
+      ],
+      "size": [
+        22,
+        19
+      ],
+      "sha256": "10b35c5340a48abc4833093139b3b504e0b12cc05f952585759d1f42133027f8",
+      "rgba_sha256": "9be06417a4b25ca02c9c928f6f8732b37de86efb91a0ddef59e519a7c21fae30"
+    },
+    "left-stick": {
+      "file": "icons/left-stick.png",
+      "source_sheet": "Frame 17.png",
+      "source_rect": [
+        0,
+        3,
+        26,
+        19
+      ],
+      "size": [
+        26,
+        19
+      ],
+      "sha256": "1840a19474043b9365d354013c177b5b782c65e84b74aa39d5e1138dd9769787",
+      "rgba_sha256": "5461379f71b09fdd536a4c34935bb9f5ebcc106e1b7a541e552bdb38c5c956a1"
+    },
+    "right-stick": {
+      "file": "icons/right-stick.png",
+      "source_sheet": "Frame 17.png",
+      "source_rect": [
+        41,
+        3,
+        26,
+        19
+      ],
+      "size": [
+        26,
+        19
+      ],
+      "sha256": "2b1c4af8ffe35a3408c8aba1038f8f05ed4ffd6c9f19eb81c8e1cdee31703fbb",
+      "rgba_sha256": "69a0d7fa0a16b3a843d61dd543f22561bf3f087389eec9228c6237363a9b8a3c"
+    },
+    "left-stick-press": {
+      "file": "icons/left-stick-press.png",
+      "source_sheet": "Frame 17.png",
+      "source_rect": [
+        83,
+        4,
+        26,
+        19
+      ],
+      "size": [
+        26,
+        19
+      ],
+      "sha256": "c4f8be85a03f3edd5757cddce12e1d0cc689090a77c7a732433997a23613777f",
+      "rgba_sha256": "c34f70ae233311ef25f1ece1bc8fe6cb492cbc247b8851167b77aaa6f85afab0"
+    },
+    "right-stick-press": {
+      "file": "icons/right-stick-press.png",
+      "source_sheet": "Frame 17.png",
+      "source_rect": [
+        124,
+        4,
+        26,
+        19
+      ],
+      "size": [
+        26,
+        19
+      ],
+      "sha256": "66c064e09bfb55c8c621c72cc3e612d45c10c267a618f38bec080e97a8aa740e",
+      "rgba_sha256": "d61a66c28565093fd219d9b3d5889311cf8fb06bf9be456888c4030af21e36e9"
+    },
+    "menu": {
+      "file": "icons/menu.png",
+      "source_sheet": "Frame 18.png",
+      "source_rect": [
+        3,
+        3,
+        18,
+        18
+      ],
+      "size": [
+        18,
+        18
+      ],
+      "sha256": "204d010a47d7a4d5acbf4267e74d4aec7827ebb321c8499433dc02d97d8a41cc",
+      "rgba_sha256": "d80b3e849ba440198ace05233618df6ee00b5b425bd361a1b25bd311ed50fae1"
+    },
+    "view": {
+      "file": "icons/view.png",
+      "source_sheet": "Frame 18.png",
+      "source_rect": [
+        43,
+        3,
+        18,
+        18
+      ],
+      "size": [
+        18,
+        18
+      ],
+      "sha256": "358ecfc9e540f274a0232e684708c6a78b4bb0c55b0bbc8495507885c13a6710",
+      "rgba_sha256": "f455964b94c2f1606fb1274fd1d265370646f142bf8899e7c3f6f6834904cc55"
+    }
+  },
+  "sdl_sources": {
+    "a": "a-color",
+    "b": "b-color",
+    "x": "x-color",
+    "y": "y-color",
+    "leftshoulder": "lb",
+    "rightshoulder": "rb",
+    "lefttrigger+": "lt",
+    "righttrigger+": "rt",
+    "leftstick": "left-stick-press",
+    "rightstick": "right-stick-press",
+    "start": "menu",
+    "back": "view",
+    "dpup": "dpad-up",
+    "dpdown": "dpad-down",
+    "dpleft": "dpad-left",
+    "dpright": "dpad-right",
+    "leftx-": "left-stick-left",
+    "leftx+": "left-stick-right",
+    "lefty-": "left-stick-up",
+    "lefty+": "left-stick-down",
+    "rightx-": "right-stick-left",
+    "rightx+": "right-stick-right",
+    "righty-": "right-stick-up",
+    "righty+": "right-stick-down"
+  }
+}

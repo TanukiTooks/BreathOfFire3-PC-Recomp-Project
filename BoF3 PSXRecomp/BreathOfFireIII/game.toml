@@ -1,0 +1,71 @@
+# Autofilled by tools/new_project_layout/probe_disc.py from your legal dump.
+# Review before shipping. Runtime quirks / overlay seeds still need hand work.
+
+[game]
+name = "Breath of Fire III"
+id = "SLUS-00422"
+players = 1
+exe = "disc/SLUS_004.22"
+disc = "D:/AI/psxrecomp project/iso/Breath of Fire III (USA)/Breath of Fire III (USA).cue"
+load_address = "0x80096800"
+entry_pc = "0x8014AA0C"
+text_size = "0x00160800"
+stack_base = "0x801FFFF0"
+
+# Digests are for data Track 01 (first BINARY FILE / TRACK 01).
+[prepare_disc]
+out_dir = "disc"
+bin_name = "Breath of Fire III (USA) (Track 1).bin"
+cue_name = "Breath of Fire III (USA).cue"
+boot_exe = "SLUS_004.22"
+known_sizes = [442938048]
+known_md5 = [
+  "9dd9a7c934b8b59d0ce76b0f25d18176",
+]
+known_sha1 = [
+  "5745d9dde965ed0ec673ba071deb762355fa3e1a",
+]
+known_crc32 = [
+  "4d5b0d4b",
+]
+
+[recompiler]
+seeds = "seeds/ghidra_funcs.txt"
+out_dir = "generated"
+strict = true
+
+[runtime]
+window_title = "Breath of Fire III Recompiled"
+memcard_dir = "saves"
+
+[video]
+renderer = "opengl"
+aspect_ratio = "4:3"
+# GTE screen coordinates truncate, so valid fractional positions span [0, 1).
+# A half-pixel limit rejects valid vertices and reintroduces polygon jitter.
+pgxp_tolerance = 1.0
+
+[controller]
+p1_device = "auto"
+default_mode = "digital"
+
+# Online mount gate: digests + track count + optional TOC fingerprint
+# (see docs/NETPLAY.md).
+[netplay]
+require_cue = true
+required_tracks = 2
+required_disc_fp = "c1729016a655e419937275aaa70161659514a83e0b49927e0b5c88ab113e4aa6"
+
+
+# Inert at the default 4:3; activated by the optional BoF3 presentation mod.
+# Legacy reference retained native-wide/full mirror/GTE detection/cull guard.
+# Its textured-edge expansion distorted scenery, so leave that heuristic off.
+[widescreen]
+native_wide = true
+gte_game_mode = true
+nw_full_mirror = true
+nw_textured_edges = false
+
+[widescreen.cull]
+auto_screen_x = true
+guard_pixels = 32

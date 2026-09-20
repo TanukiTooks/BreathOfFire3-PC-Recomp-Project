@@ -1,0 +1,1 @@
+psxrecomp=ed55299be34710a90fc080484a83e8634bd41fa9 (user-supplied nightly source, linked by local directory junction)
